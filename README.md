@@ -215,4 +215,9 @@ az vm open-port \
 
 ## Integrantes
 
-- Bruno Ferreira
+Bruno ferreira rm 563489
+ 
+Gabriel Robertoni Padilha rm 566293
+ 
+Leonardo Aragaki Rodrigues rm 562944
+ 
